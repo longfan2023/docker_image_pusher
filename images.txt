@@ -1,4 +1,3 @@
-elasticsearch:8.12.0
-minio/minio:latest
+infiniflow/ragflow:v0.16.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
