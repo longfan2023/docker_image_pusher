@@ -1,4 +1,4 @@
-mysql:8.0.12
+ai/qwen3-vl:8B
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
