@@ -1,4 +1,4 @@
-ai/qwen3-vl
+aistaging/qwen3-vl-vllm:8B
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
