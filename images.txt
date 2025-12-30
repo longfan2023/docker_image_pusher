@@ -1,4 +1,4 @@
-aistaging/qwen3-vl-vllm:8B
+mysql:8.0.34
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
