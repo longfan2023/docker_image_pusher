@@ -1,4 +1,4 @@
-java:17
+eclipse-temurin:17
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
