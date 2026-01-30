@@ -1,4 +1,4 @@
-mysql:8.0.34
+java:17
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
